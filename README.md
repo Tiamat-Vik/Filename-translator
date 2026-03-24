@@ -57,7 +57,3 @@ Arabic, Chinese (Simplified & Traditional), Czech, Danish, Dutch, English, Finni
 This tool uses Google's unofficial free translation endpoint (`translate.googleapis.com`). No API key or account is needed, but this endpoint is not officially supported by Google and its use technically falls outside their Terms of Service. It works reliably for personal and hobby use — just be aware there are no uptime guarantees, and usage at very high scale may be rate-limited or blocked.
 
 If you need a production-grade solution, swap in the [official Google Cloud Translation API](https://cloud.google.com/translate).
-
-## License
-
-MIT — free to use, modify, and distribute. See [LICENSE](LICENSE) for details.
